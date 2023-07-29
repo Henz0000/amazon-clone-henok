@@ -1,4 +1,4 @@
-View the page using - https://amazon-clone-by-henok1.netlify.app/
+View the page using - https://64c53f1603fc33050aa9b29c--amazon-clone-by-henok1.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
